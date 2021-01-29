@@ -20,3 +20,6 @@ The following design patterns will be:
 - Abstract factory
 - Builder
 - Adapter
+- Strategy
+- Observer
+- Facade
