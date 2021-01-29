@@ -17,3 +17,5 @@ Behavioral pattern is concerned about how the objects can interact efficiently w
 The following design patterns will be:
 
 - Singleton
+- Abstract factory
+- Builder

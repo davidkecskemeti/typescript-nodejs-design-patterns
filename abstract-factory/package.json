@@ -1,0 +1,12 @@
+{
+  "name": "abstract-factory",
+  "version": "1.0.0",
+  "description": "Generates an object instance for a user without exposing any instantiation logic to the client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node dist/app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
