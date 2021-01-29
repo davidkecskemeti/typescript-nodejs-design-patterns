@@ -1,0 +1,12 @@
+{
+  "name": "adapter",
+  "version": "1.0.0",
+  "description": "It is a process of wrapping the incompatible object in an adapter to make it compatible with another class.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node dist/app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

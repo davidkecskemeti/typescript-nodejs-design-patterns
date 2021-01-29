@@ -19,3 +19,4 @@ The following design patterns will be:
 - Singleton
 - Abstract factory
 - Builder
+- Adapter
